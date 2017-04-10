@@ -191,7 +191,8 @@ p {
 	margin: 0 auto;
 }
 
-.overlay1,
+
+
 .overlay2,
 .overlay3,
 .overlay4,
@@ -221,6 +222,14 @@ p {
 
 .add:hover {
 	background: #fdb0bb;
+}
+
+.button1 {
+	background: #fdb0bb;
+}
+
+.button1:hover {
+	background: #f3e7a7;
 }
 
 @media (min-width:768px) {
